@@ -1,0 +1,6 @@
+streamlit>=1.33
+python-pptx>=0.6.22
+viennarna>=2.6.4
+forgi>=2.1.0
+biopython>=1.83
+numpy>=1.26
